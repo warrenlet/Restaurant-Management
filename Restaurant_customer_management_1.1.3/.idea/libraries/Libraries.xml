@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/untitled/Libraries/LGoodDatePicker-11.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled/Libraries/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled/Libraries/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
